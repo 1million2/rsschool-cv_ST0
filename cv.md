@@ -31,10 +31,10 @@ I have a small experience in frontend develop. I want to become a good specialis
 
 ### Code example:
 
-    <button type="button" onclick="document.getElementById('demo').innerHTML = Date()">
+    <button type="button" onclick="document.querySelector('.title').innerHTML = Date()">
 	    Click me to display Date and Time.
     </button>
-    <p id="demo"></p>
+    <p class="title"></p>
 
 ###  Education:
 
