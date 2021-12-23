@@ -10,8 +10,7 @@
 - ##### Phone:  +375291579017
 - ##### Mail:  makarichak1209@gmail.com
 - ##### LinkedIn:  [Eduard Makarichak](linkedin.com/in/eduard-makarichak-730b7b1b3)
-
-
+- ##### Discord:  Eduard Makarichak(@1million2)
 
 ### Briefly About Myself:
 
@@ -31,10 +30,10 @@ I have a small experience in frontend develop. I want to become a good specialis
 
 ### Code example:
 
-    <button type="button" onclick="document.querySelector('.title').innerHTML = Date()">
-	    Click me to display Date and Time.
-    </button>
-    <p class="title"></p>
+    function multiply(a, b){
+      return a * b
+    }
+    multiply(2,3);
 
 ###  Education:
 
