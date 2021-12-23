@@ -44,4 +44,7 @@ I have a small experience in frontend develop. I want to become a good specialis
 	- Website development with HTML, CSS & JS
 	- Web application development with JavaScript
 
-###  Languages:
+###  Languages: 
+
+ - Russian - native
+ - English - A2 (in process...)
